@@ -12,4 +12,4 @@ function countHi(str) {
   return count;
 }
 
-console.log('hihi');
+countHi('hihi');
